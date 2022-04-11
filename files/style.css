@@ -42,8 +42,7 @@ a, .hero-par {
     width: 50%;
     height: 80%;
     flex-direction: column;
-    padding: 70px 0 20px 20%;
-    
+    padding: 70px 0 20px 20%;   
 }
 
 .hero-img {
@@ -51,7 +50,7 @@ a, .hero-par {
     justify-content: center;
     width: 50%;
     height: 58%;
-    padding: 80px 20% 80px 0;
+    padding: 80px 20% 80px 20%;
 }
 
 .header-icon {
@@ -81,7 +80,7 @@ a, .hero-par {
     display: flex;
     width: 100%;
     justify-content: space-evenly;
-    padding: 8px 20%;
+    padding: 8px 20% 80px 20%;
     gap: 16px;
 }
 
@@ -108,4 +107,19 @@ h3 {
     height: 200px;
     border: 3px solid #3882f6;
     border-radius: 10%;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    width: 100%;
+    padding: 150px 26%;
+    flex-wrap: wrap;
+    background-color: #E5E7EB;
+}
+
+em {
+    font-size: 36px;   
 }
