@@ -6,3 +6,10 @@ Alexander Shatov (Header Icon) - Instagram: https://www.instagram.com/alex_bemor
 
 Vlad Tchompalov (Hero Image) - Instagram: https://instagram.com/tchompalov
 
+Tommy Van Kessel (Tire Image) - Instagram: https://instagram.com/tommyvankesselphotos
+
+Roberto Nickson (Interior Image) - Instagram: https://instagram.com/rpnickson
+
+Claudio Schwarz (Battery Image) - Instagram: https://instagram.com/purzlbaum
+
+Dennis Cortes (Profile Image) - Instagram: https://instagram.com/shyboytm
