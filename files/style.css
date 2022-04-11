@@ -53,6 +53,11 @@ a, .hero-par {
     padding: 80px 20% 80px 20%;
 }
 
+.close-tesla {
+    border: 5px solid #3882f6;
+    border-radius: 8%;
+}
+
 .header-icon {
     font-size: 24px;
     font-style: oblique;
@@ -69,7 +74,7 @@ a, .hero-par {
 }
 
 .tesla-link {
-    border-radius: 9%;
+    border-radius: 3%;
     background-color: #3882f6;
     width: 100px;
     text-align: center;
