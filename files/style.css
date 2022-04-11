@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 8px 20%;
+}
+
+.header-icon, .header-list {
+    display: flex;
+    gap: 64px;
+    list-style: none;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
