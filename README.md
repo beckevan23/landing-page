@@ -4,3 +4,5 @@ Images provided by:
 
 Alexander Shatov (Header Icon) - Instagram: https://www.instagram.com/alex_bemore/
 
+Vlad Tchompalov (Hero Image) - Instagram: https://instagram.com/tchompalov
+
