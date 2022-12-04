@@ -1,4 +1,4 @@
-* .header, * .introcontainer, * .infocontainer {
+* .header, * .introcontainer {
     border: 1px solid red;
 }
 
@@ -23,7 +23,38 @@ body{
     display: flex;
     font-size: 18px;
     justify-content: center;
-    padding: 20px;
+    padding: 30px;
+}
+
+h2 {
+    padding: 30px 0 20px;
+}
+
+.infocontainer {
+    align-items: center;
+    display: flex;
+    gap: 64px;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.infosection {
+    height: 450px;
+    text-align: center;
+}
+
+.infopic {
+    border: 2px solid #3882f6;
+    border-radius: 5px;
+    height: 200px;
+    width: 200px;
+}
+
+.infopiccontainer {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 200px;
 }
 
 .modalheader {
