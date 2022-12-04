@@ -1,5 +1,6 @@
-* .header, * .introcontainer {
-    border: 1px solid red;
+a {
+    color: #f9faf8;
+    text-decoration: none;
 }
 
 .attribution {
@@ -32,6 +33,64 @@ h2 {
     font-weight: 900;
 }
 
+.header {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+}
+
+.headercontainer {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 10%;
+    width: 1080px;
+}
+
+.headerlogo {
+    color: #f9faf8;
+    font-size: 24px;
+    padding: 10px 10px 20px;
+}
+
+.headerlogo:hover, .listlink:hover {
+    background-color: #0c131f;
+}
+
+.herocontainer {
+    display: flex;
+    gap: 64px;
+    margin: 10%;
+    max-width: 1076px;
+}
+
+.heroimg {
+    border-radius: 5px;
+    height: 220px;
+    width: 500px;
+}
+
+.heromodal {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    justify-content: center;
+}
+
+.herosection {
+    align-items: center;
+    background-color: #1f2937;
+    display: flex;
+    height: 450px;
+    justify-content: center;
+}
+
+.herotitle {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
 .infocontainer {
     align-items: center;
     display: flex;
@@ -57,6 +116,10 @@ h2 {
     flex-direction: column;
     flex-wrap: wrap;
     width: 200px;
+}
+
+.listlink {
+    padding: 10px 30px 20px;
 }
 
 .modalheader {
@@ -89,13 +152,21 @@ h2 {
 
 .signupbutton {
     border: 1px solid #f9faf8;
+}
+
+.signupbutton, .herobutton {
+    background-color: #3882f6;
     border-radius: 5px;
     color: #f9faf8;
     padding: 5px 24px;
     text-decoration: none;
 }
 
-.signupcontainer {
+.signupbutton:hover, .herobutton:hover {
+    background-color: #327bf1;
+}
+
+.signupsection {
     align-items: center;
     display: flex;
     height: 350px;
@@ -111,4 +182,11 @@ h2 {
     justify-content: space-between;
     margin: 180px;
     padding: 45px 90px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
